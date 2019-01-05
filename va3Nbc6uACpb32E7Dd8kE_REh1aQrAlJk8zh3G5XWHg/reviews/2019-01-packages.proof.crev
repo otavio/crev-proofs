@@ -20,3 +20,24 @@ comment: "I am the author, the code is very simple and small."
 _p_shnsc8Gw8TruzGJK5lzcAOs_5bg7Gwu2B6wxuZ96zxpeV-xWZo9hxC15_BQpfi1qaAuePy_Q41G-qb6c_Dg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-01-05T02:36:16.126289143-02:00"
+from:
+  id-type: crev
+  id: va3Nbc6uACpb32E7Dd8kE_REh1aQrAlJk8zh3G5XWHg
+  url: "https://github.com/otavio/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: checked_command
+  version: 0.2.2
+  digest: TgGer_5xX3sRgfyScpXuxIeXdvfu5gKpmJBxmk3RF-g
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: The code is small and well tested using a good amount of unit tests.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+si8OqjBCut8jgwUaKmZR0Q1_cE6z01qzoqPiV2iDrCiLCn9wQJ6fINluXj3cPofeFjqYYhUEt94peMI3mPw4AA
+-----END CREV PACKAGE REVIEW-----
+
