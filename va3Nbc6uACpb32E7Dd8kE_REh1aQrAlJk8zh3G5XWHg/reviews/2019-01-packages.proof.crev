@@ -41,3 +41,25 @@ comment: The code is small and well tested using a good amount of unit tests.
 si8OqjBCut8jgwUaKmZR0Q1_cE6z01qzoqPiV2iDrCiLCn9wQJ6fINluXj3cPofeFjqYYhUEt94peMI3mPw4AA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-01-05T02:47:38.841172034-02:00"
+from:
+  id-type: crev
+  id: va3Nbc6uACpb32E7Dd8kE_REh1aQrAlJk8zh3G5XWHg
+  url: "https://github.com/otavio/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cmdline_words_parser
+  version: 0.1.0
+  revision: 8dd7c1eab0b03f6619bdc654e101cc74ac99afb2
+  digest: qWgOdWfxhWg-i3luEMOmu79nMjN2bLNkF3iduq4eBRQ
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: The code is of good quality and well tested. Focused in one single task and provides support for no_std use as well.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+AFjOeqL5QFPTIw5cPqCxTHhZtq1bkJ_y-RyDKt83gy52X7cqIaW7tGDleTyB847nyIG7nVo9ngy6Misr1nY7Bw
+-----END CREV PACKAGE REVIEW-----
+
