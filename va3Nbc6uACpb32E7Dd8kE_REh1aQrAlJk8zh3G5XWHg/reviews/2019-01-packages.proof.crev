@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-01-05T01:08:07.396197423-02:00"
+from:
+  id-type: crev
+  id: va3Nbc6uACpb32E7Dd8kE_REh1aQrAlJk8zh3G5XWHg
+  url: "https://github.com/otavio/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: easy_process
+  version: 0.1.6
+  revision: 919d9a916dd096a77e5fa04f37a3f36dd5844fee
+  digest: dY-EkrNdm-6gksrj96aQY0L0fle9rAQzAUTYSQXvvAQ
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: "I am the author, the code is very simple and small."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+_p_shnsc8Gw8TruzGJK5lzcAOs_5bg7Gwu2B6wxuZ96zxpeV-xWZo9hxC15_BQpfi1qaAuePy_Q41G-qb6c_Dg
+-----END CREV PACKAGE REVIEW-----
+
